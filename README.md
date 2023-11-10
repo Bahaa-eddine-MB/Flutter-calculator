@@ -1,4 +1,4 @@
-# personal_project
+# Flutter calculator
 
 A new Flutter project.
 
