@@ -1,6 +1,6 @@
 # Flutter calculator
 
-A new Flutter project.
+A simple flutter calculator implemented with Getx
 
 ## Getting Started
 
